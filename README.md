@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxhardt
 - 👀 I’m interested in data and machine learning engineering
-- 🌱 I’m currently learning cloud, distributed systems, modern data stack
+- 🌱 I’m currently learning Rust, VIM, Cloud, distributed systems
 - 💞️ I’m looking to collaborate on tooling for scaling and deploying data and machine learning workloads
 - 📫 How to reach me: 🦉🧙✉️
 
